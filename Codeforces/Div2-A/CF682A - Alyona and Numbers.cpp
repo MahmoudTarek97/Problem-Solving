@@ -1,6 +1,6 @@
 /***********************************************/
 /**                                           **/
-/**   CF-D2-682A-Alyona and Numbers.cpp       **/
+/**   CF682A - Alyona and Numbers.cpp         **/
 /**   Credits to Mahmoud Tarek Samir          **/
 /**   Ma7moud.tarek97@gmail.com               **/
 /**                                           **/
