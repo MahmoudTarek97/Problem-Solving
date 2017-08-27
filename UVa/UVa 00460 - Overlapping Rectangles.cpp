@@ -1,6 +1,6 @@
 /***********************************************/
 /**                                           **/
-/**   UVa 460 - Overlapping Rectangles.cpp    **/
+/**   UVa 00460 - Overlapping Rectangles.cpp  **/
 /**   Credits to Mahmoud Tarek Samir          **/
 /**   Ma7moud.tarek97@gmail.com               **/
 /**                                           **/
