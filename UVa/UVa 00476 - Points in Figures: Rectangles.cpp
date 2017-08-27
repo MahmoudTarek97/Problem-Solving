@@ -1,10 +1,10 @@
-/****************************************************/
-/**                                                **/
-/**   UVa 476 - Points in Figures: Rectangles.cpp  **/
-/**   Credits to Mahmoud Tarek Samir               **/
-/**   Ma7moud.tarek97@gmail.com                    **/
-/**                                                **/
-/****************************************************/
+/******************************************************/
+/**                                                  **/
+/**   UVa 00476 - Points in Figures: Rectangles.cpp  **/
+/**   Credits to Mahmoud Tarek Samir                 **/
+/**   Ma7moud.tarek97@gmail.com                      **/
+/**                                                  **/
+/******************************************************/
 
 #include <iostream>
 #include <stdio.h>
