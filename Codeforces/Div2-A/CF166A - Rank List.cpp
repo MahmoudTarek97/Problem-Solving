@@ -1,6 +1,6 @@
 /*********************************************/
 /**                                         **/
-/**   CF-166A-Rank List.cpp                 **/
+/**   CF166A - Rank List.cpp                **/
 /**   Credits to Mahmoud Tarek Samir        **/
 /**   Ma7moud.tarek97@gmail.com             **/
 /**                                         **/
