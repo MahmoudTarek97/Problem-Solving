@@ -1,6 +1,6 @@
 /***********************************************/
 /**                                           **/
-/**   CF-D2-127A-Wasted Time.cpp              **/
+/**   CF127A - Wasted Time.cpp                **/
 /**   Credits to Mahmoud Tarek Samir          **/
 /**   Ma7moud.tarek97@gmail.com               **/
 /**                                           **/
