@@ -1,6 +1,6 @@
 /*********************************************/
 /**                                         **/
-/**   CF-287B-Pipeline.cpp                  **/
+/**   CF287B - Pipeline.cpp                 **/
 /**   Credits to Mahmoud Tarek Samir        **/
 /**   Ma7moud.tarek97@gmail.com             **/
 /**                                         **/
