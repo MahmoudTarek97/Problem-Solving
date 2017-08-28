@@ -1,6 +1,6 @@
 /*********************************************/
 /**                                         **/
-/**   CF-714B-Filya and Homework.cpp        **/
+/**   CF714B - Filya and Homework.cpp       **/
 /**   Credits to Mahmoud Tarek Samir        **/
 /**   Ma7moud.tarek97@gmail.com             **/
 /**                                         **/
