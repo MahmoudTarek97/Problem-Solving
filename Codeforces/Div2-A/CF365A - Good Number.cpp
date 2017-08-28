@@ -1,6 +1,6 @@
 /***********************************************/
 /**                                           **/
-/**   CF-D2-365A-Good Number.cpp              **/
+/**   CF365A - Good Number.cpp                **/
 /**   Credits to Mahmoud Tarek Samir          **/
 /**   Ma7moud.tarek97@gmail.com               **/
 /**                                           **/
