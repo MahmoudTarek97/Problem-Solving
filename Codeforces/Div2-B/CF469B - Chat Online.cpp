@@ -1,6 +1,6 @@
 /*********************************************/
 /**                                         **/
-/**   CF-469B-Chat Online.cpp               **/
+/**   CF469B - Chat Online.cpp              **/
 /**   Credits to Mahmoud Tarek Samir        **/
 /**   Ma7moud.tarek97@gmail.com             **/
 /**                                         **/
