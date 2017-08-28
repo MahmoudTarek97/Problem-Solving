@@ -1,6 +1,6 @@
 /*********************************************/
 /**                                         **/
-/**   CF-581B-Luxurious Houses.cpp          **/
+/**   CF581B - Luxurious Houses.cpp         **/
 /**   Credits to Mahmoud Tarek Samir        **/
 /**   Ma7moud.tarek97@gmail.com             **/
 /**                                         **/
