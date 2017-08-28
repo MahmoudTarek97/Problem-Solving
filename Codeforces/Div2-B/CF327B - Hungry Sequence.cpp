@@ -1,6 +1,6 @@
 /*********************************************/
 /**                                         **/
-/**   CF-327B-Hungry Sequence.cpp           **/
+/**   CF327B - Hungry Sequence.cpp          **/
 /**   Credits to Mahmoud Tarek Samir        **/
 /**   Ma7moud.tarek97@gmail.com             **/
 /**                                         **/
