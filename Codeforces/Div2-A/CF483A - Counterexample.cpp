@@ -1,6 +1,6 @@
 /***********************************************/
 /**                                           **/
-/**   CF-D2-483A-Counterexample.cpp           **/
+/**   CF483A - Counterexample.cpp             **/
 /**   Credits to Mahmoud Tarek Samir          **/
 /**   Ma7moud.tarek97@gmail.com               **/
 /**                                           **/
